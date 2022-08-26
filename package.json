@@ -1,0 +1,14 @@
+{
+  "name": "backend-portofolio-site",
+  "version": "1.0.0",
+  "description": "i am make backend for my portofolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahmat Hidayat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
